@@ -9,7 +9,7 @@ export const Bio = {
     github: "https://github.com/alissonlins",
     linkedin: "https://www.linkedin.com/in/alissonlinss/",
     resume: 
-    "https://drive.google.com/file/d/1CAoOeqc5rsySlHsJdwbmvQS5kJlyV4qZ/view?usp=sharing"
+    "https://drive.google.com/file/d/1fRzlR-6RwVok4gjapvB341f9Ku9IPuEl/view?usp=drive_link"
 };
 
 export const skills = [
