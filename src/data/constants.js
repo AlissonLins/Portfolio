@@ -114,34 +114,37 @@ export const education = [
 
 export const projects = [
     {
-        id: 9,
-        title: "Lading-Page | Starbucks",
-        date: "Abril 2023",
-        description:
-        "É uma aplicação web de uma LadingPage onde é inspirada na famosa cafeteria Starbucks.",
-        image: "./imagens/Starbucks.png",
-        tags: ["HTML","CSS","JavaScript"],
+        id: 0,
+        title: "Dropdown Navigation ",
+        date: "Agosto 2024",
+        description: 
+        "Projeto criado com base em um desafio do Frontend Mentor",
+        image:"./imagens/Dropdown.PNG",
+        tags: [
+        "HTML","CSS","JavaScript"
+        ],
         category: "web",
-        github: "https://github.com/AlissonLins/Starbucks-Lading-Page",
-        webapp: "https://alissonlins.github.io/Starbucks-Lading-Page/#",
+        github: "https://github.com/AlissonLins/Dropdown-Navigation",
+        webapp: "https://dropdown-navigation-blue.vercel.app",
     },
 
     {
-        id: 0,
-        title: "Discord Bot ",
-        date: "Março 2023",
-        description: 
-        "Bot de Discord desenvolvido para auxiliar em tarefas/atividades relacionadas a programação, possuindo alguns recursos como Por exemplo: Fornecimento de documentação de uma linguagem de programação especifica.",
-        image:"./imagens/Bot.PNG",
-        tags: [
-            "JavaScript"
-        ],
-        category: "software",
-        github: "https://github.com/AlissonLins/Programing-Student",
-        webapp: "#",
-    },
-    {
         id: 1,
+        title: "Mortgage Calculator ",
+        date: "Agosto 2024",
+        description: 
+        "Projeto criado com base em um desafio do Frontend Mentor",
+        image:"./imagens/Mortgage.PNG",
+        tags: [
+        "HTML","CSS","JavaScript"
+        ],
+        category: "web",
+        github: "https://github.com/AlissonLins/Mortgage-repayment-calculator",
+        webapp: "https://mortgage-repayment-calculator-woad.vercel.app",
+    },
+   
+    {
+        id: 2,
         title: "Ecommerc",
         date: "Junho 2024",
         description: 
@@ -154,8 +157,22 @@ export const projects = [
         github: "https://github.com/AlissonLins/Projeto-Eccomerce",
         webapp: "https://ecommerceweb-mocha.vercel.app/",
     },
+
     {
-        id: 2,
+        id: 3,
+        title: "Lading-Page | Starbucks",
+        date: "Abril 2023",
+        description:
+        "É uma aplicação web de uma LadingPage onde é inspirada na famosa cafeteria Starbucks.",
+        image: "./imagens/Starbucks.png",
+        tags: ["HTML","CSS","JavaScript"],
+        category: "web",
+        github: "https://github.com/AlissonLins/Starbucks-Lading-Page",
+        webapp: "https://alissonlins.github.io/Starbucks-Lading-Page/#",
+    },
+
+    {
+        id: 4,
         title: "Quiz Interativo",
         date: "Maio 2024",
         description: 
@@ -169,7 +186,7 @@ export const projects = [
         webapp: "https://alissonlins.github.io/Quiz-Interativo/",
     },
     {
-        id: 3,
+        id: 5,
         title: "Calculadora Simples ",
         date: "Abril 2024",
         description: 
@@ -181,6 +198,21 @@ export const projects = [
         category: "web",
         github: "https://github.com/AlissonLins/CalculadoraSimples",
         webapp: "https://alissonlins.github.io/CalculadoraSimples/",
+    },
+
+    {
+        id: 6,
+        title: "Discord Bot ",
+        date: "Março 2023",
+        description: 
+        "Bot de Discord desenvolvido para auxiliar em tarefas/atividades relacionadas a programação, possuindo alguns recursos como Por exemplo: Fornecimento de documentação de uma linguagem de programação especifica.",
+        image:"./imagens/Bot.PNG",
+        tags: [
+            "JavaScript"
+        ],
+        category: "software",
+        github: "https://github.com/AlissonLins/Programing-Student",
+        webapp: "#",
     },
 
 ];
